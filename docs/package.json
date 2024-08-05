@@ -36,7 +36,7 @@
   "dependencies": {
     "@oigroup/prettier-babylon": "^1.4.5",
     "babel-standalone": "^6.25.0",
-    "highlight.js": "^9.11.0",
+    "highlight.js": "^11.10.0",
     "lodash.debounce": "^4.0.8",
     "pretty-format": "^19.0.0",
     "split.js": "^1.2.0",
